@@ -1,10 +1,10 @@
-pt:
-  ckeditor_skin: Tema
+pt-BR:
+  ckeditor_skin: Aparência
   ckeditor_ui_color: Cor da interface
   ckeditor_enter_mode: Modo de enter
-  ckeditor_startup_show_blocks: Mostrar blocos no arranque
+  ckeditor_startup_show_blocks: Mostrar blocos ao iniciar
   ckeditor_toolbar_can_collapse: Barra de ferramentas recolhível
-  ckeditor_toolbar_location: Localização da barra de ferramentas
+  ckeditor_toolbar_location: Local da barra de ferramentas
   ckeditor_toolbar_buttons: Botões da barra de ferramentas
   ckeditor_width: Largura
   ckeditor_height: Altura
