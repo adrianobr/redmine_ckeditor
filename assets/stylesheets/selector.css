@@ -15,5 +15,7 @@ div.selector-container div.clear {
 }
 
 div.selector-container input.button {
-  width: 8em;
+  width: 12em;
+  padding: unset;
+  margin-bottom: 5px;
 }
